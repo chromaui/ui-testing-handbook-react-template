@@ -48,7 +48,3 @@ export default function InboxScreen({ error }) {
 InboxScreen.propTypes = {
   error: PropTypes.string,
 };
-
-InboxScreen.defaultProps = {
-  error: "",
-};

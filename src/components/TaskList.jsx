@@ -70,7 +70,3 @@ TaskList.propTypes = {
   onArchiveTask: PropTypes.func.isRequired,
   onEditTitle: PropTypes.func.isRequired,
 };
-
-TaskList.defaultProps = {
-  loading: false,
-};
